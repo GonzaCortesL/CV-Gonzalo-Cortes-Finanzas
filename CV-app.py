@@ -1,11 +1,11 @@
-import streamlit as st
+éimport streamlit as st
 
 # Bilingual content dictionaries
 content = {
     "en": {
-        "title": "Curriculum Vitae - Gonzalo Cortes Leal",
+        "title": "Curriculum Vitae - Gonzalo Cortés Leal",
         "personal_info": "📋 Personal Information",
-        "name": "Gonzalo Cortes Leal",
+        "name": "Gonzalo Cortés Leal",
         "contact": "Contact Information",
         "email": "Email: 0224381@up.edu.mx",
         "phone": "Phone: 3317590101",
@@ -64,7 +64,7 @@ content = {
             "technical": [
                 "Financial modeling",
                 "Data analysis",
-                "Proficiency in financial software tools (e.g., Excel, Bloomberg Terminal)",
+                "Proficiency in financial software tools (e.g., Excel, R Studio, Python)",
                 "Investment analysis",
                 "Risk management"
             ],
@@ -108,9 +108,9 @@ content = {
         ]
     },
     "es": {
-        "title": "Currículum Vitae - Gonzalo Cortes Leal",
+        "title": "Currículum Vitae - Gonzalo Cortés Leal",
         "personal_info": "📋 Información Personal",
-        "name": "Gonzalo Cortes Leal",
+        "name": "Gonzalo Cortés Leal",
         "contact": "Información de Contacto",
         "email": "Correo electrónico: 0224381@up.edu.mx",
         "phone": "Teléfono: 3317590101",    
