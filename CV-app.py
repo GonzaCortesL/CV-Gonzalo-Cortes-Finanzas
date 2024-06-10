@@ -1,4 +1,4 @@
-éimport streamlit as st
+import streamlit as st
 
 # Bilingual content dictionaries
 content = {
