@@ -108,7 +108,7 @@ content = {
         ]
     },
     "es": {
-        "title": "Currículum Vitae - Gonzalo Cortés Leal",
+        "title": "Curriculum Vitae - Gonzalo Cortés Leal",
         "personal_info": "📋 Información Personal",
         "name": "Gonzalo Cortés Leal",
         "contact": "Información de Contacto",
